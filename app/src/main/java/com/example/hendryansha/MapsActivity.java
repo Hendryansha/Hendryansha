@@ -52,12 +52,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Bitmap markerDes = Bitmap.createScaledBitmap(d, lebar, tinggi, false);
 
 //    tambahkan marker ke map
-        mMap.addMarker(new MarkerOptions().position(user).title("Marker in UNTAD")
-                .snippet("Ini Kampus Panas")
+        mMap.addMarker(new MarkerOptions().position(user).title("User")
+                .snippet("Hendryansha")
                 .icon(BitmapDescriptorFactory.fromBitmap(markerStart)));
 
-        mMap.addMarker(new MarkerOptions().position(bandara).title("Marker in WALKOT")
-                .snippet("Ini Walkot Dong")
+        mMap.addMarker(new MarkerOptions().position(bandara).title("Marker in Bandara")
+                .snippet("Bandara")
                 .icon(BitmapDescriptorFactory.fromBitmap(markerDes)));
 
 
