@@ -10,5 +10,10 @@ Lulusan Teknik Informatika dengan beberapa pengalaman di kampus dan bootcamp. Sa
 </a>
 </p>
 
-### Tools
-![Android Studio](https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Icon_2023.svg)
+## Tools
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Icon_2023.svg" alt="Android Studio" width="40" style="margin-right:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" style="margin-right:10px;" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" />
+</p>
